@@ -1,5 +1,4 @@
 # pets-microservice-lambdacd
-<<<<<<< HEAD
 
 A continuous delivery pipeline for FIXME
 
@@ -25,4 +24,3 @@ A continuous delivery pipeline for FIXME
 * for a more detailed example, look at the [example pipeline](https://github.com/flosell/lambdacd/tree/master/src/todopipeline) in the main LambdaCD project
 =======
 A LambdaCD example project
->>>>>>> c2c63a04edb444b9f49b75b1dcdd33adb381167f
